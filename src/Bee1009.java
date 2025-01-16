@@ -6,13 +6,13 @@ public class Bee1009 {
         Locale.setDefault(Locale.US);
         Scanner tec = new Scanner(System.in);
 
-        String nomeVendedor;
+        //String nomeVendedor;
         double salarioFixo;
         double totalReceber;
         double comissao;
         double vendasRealizadas;
 
-        nomeVendedor = tec.nextLine();
+        //nomeVendedor = tec.nextLine();
         salarioFixo = tec.nextDouble();
         vendasRealizadas = tec.nextDouble();
 
