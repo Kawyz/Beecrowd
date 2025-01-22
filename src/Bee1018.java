@@ -6,10 +6,9 @@ public class Bee1018 {
 
         int valor;
         
-        valor = tec.nextInt();
-    
-                
+        valor = tec.nextInt();     
 
+        System.out.println(valor);
         System.out.println(valor / 100 + " nota(s) de R$ 100,00");
         valor = valor % 100;
         System.out.println(valor / 50 + " nota(s) de R$ 50,00");
